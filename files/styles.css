@@ -49,6 +49,7 @@ body {
 .button:hover {
     transform: scale(1.1);
     box-shadow: 0 0 5px #aaa;
+    z-index: 10;
 }
 
 .next-button {
